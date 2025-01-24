@@ -14,6 +14,8 @@ pip install -r requirements.txt
 
 # Using
 
+python3 disclosurer.py
+
 ![изображение](https://github.com/user-attachments/assets/c2b14334-d4a7-4fc1-bd28-0f43d6a0a862)
 
 Script has a very intuitive interface. All you need to do to start a scan is to paste the URL link into the URL box. After that, the scan will start. Scanning may take some time, so please be patient.
